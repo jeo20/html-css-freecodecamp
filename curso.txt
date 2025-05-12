@@ -1,0 +1,88 @@
+echo "# html-css-freecodecamp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jeo20/html-css-freecodecamp.git
+git push -u origin main
+
+HTML
+⌨️ (00:00:00) Inicio del Curso
+⌨️ (00:00:37) Introducción a HTML y CSS
+⌨️ (00:04:09) Herramientas de Desarrollo de Chrome
+⌨️ (00:06:33) Editores de Código
+⌨️ (00:10:52) Crear un Archivo HTML
+⌨️ (00:15:22) Elementos y Etiquetas
+⌨️ (00:26:14) Especificar Idioma
+⌨️ (00:28:18) Crear Encabezados
+⌨️ (00:32:45) Párrafos
+⌨️ (00:36:47) Buscar en la Documentación
+⌨️ (00:40:23) Comentarios en HTML
+⌨️ (00:44:24) Elemento main
+⌨️ (00:47:39) Indentación
+⌨️ (00:51:12) Imágenes y Atributos
+⌨️ (00:59:12) Crear Enlaces Externos
+⌨️ (01:04:10) Enlaces a secciones internas
+⌨️ (01:12:08) Enlaces con imágenes
+⌨️ (01:15:40) Crear enlaces con #
+⌨️ (01:18:56) Listas no ordenadas
+⌨️ (01:23:12) Listas ordenadas
+⌨️ (01:27:08) Etiqueta strong
+⌨️ (01:28:19) Text en cursiva
+⌨️ (01:29:26) Texto Tachado
+⌨️ (01:30:49) Línea Horizontal
+⌨️ (01:32:28) Crear formularios
+⌨️ (01:35:38) Texto Marcador de Posición
+⌨️ (01:37:22) Crear un campo obligatorio
+⌨️ (01:39:19) Botones de Radio
+⌨️ (01:45:24) Grupo de Botones de Radio
+⌨️ (01:47:00) Salto de Línea
+⌨️ (01:49:48) Casillas de Verificación
+⌨️ (01:55:28) El atributo 'checked'
+⌨️ (01:57:06) El atributo 'value'
+⌨️ (02:00:41) Elementos div
+⌨️ (02:03:16) Pie de Página
+⌨️ (02:05:44) Etiqueta small
+⌨️ (02:06:42) Head
+
+CSS
+⌨️ (02:09:22) Introducción a CSS
+⌨️ (02:10:50) Tres Opciones para CSS
+⌨️ (02:14:55) Estilos en Línea
+⌨️ (02:18:10) Elemento style
+⌨️ (02:23:11) Archivo CSS
+⌨️ (02:29:25) Selectores CSS
+⌨️ (02:33:13) Selectores de Clase
+⌨️ (02:41:20) Tamaño de Fuente
+⌨️ (02:48:14) Familias Tipográficas
+⌨️ (02:55:09) Google Fonts
+⌨️ (03:00:38) Especifica cómo deben degradarse las fuentes
+⌨️ (03:03:52) Cambiar el tamaño de las imágenes
+⌨️ (03:07:23) Añade bordes alrededor de un elemento
+⌨️ (03:12:36) Esquinas redondeadas
+⌨️ (03:14:06) Imágenes redondeadas
+⌨️ (03:15:46) Color de fondo de un div
+⌨️ (03:18:58) Atributo id en CSS
+⌨️ (03:25:46) Padding
+⌨️ (03:30:37) Padding a cada lado
+⌨️ (03:32:12) Padding en una línea
+⌨️ (03:33:52) Margen
+⌨️ (03:37:37) Ajustar el margen
+⌨️ (03:39:26) Margen en una línea
+⌨️ (03:41:49) Padding vs. Margin
+⌨️ (03:46:15) Selectores de Atributo
+⌨️ (03:56:59) Unidades absolutas y relativas
+⌨️ (04:09:56) Aplicar estilos a body
+⌨️ (04:12:50) Prioriza un estilo sobre otro
+⌨️ (04:21:02) Prioridad de class vs. id
+⌨️ (04:25:36) Prioridad de los estilos en línea
+⌨️ (04:29:14) Códigos hexadecimales para colores
+⌨️ (04:35:03) Abreviar códigos hexadecimales
+⌨️ (04:39:33) Valores RGB para colores
+⌨️ (04:45:23) Variables en CSS
+⌨️ (04:52:44) Crear variables en CSS
+⌨️ (04:56:47) Valores de respaldo
+⌨️ (05:02:09) Compatibilidad con distintos navegadores
+⌨️ (05:09:42) Heredar variables CSS
+⌨️ (05:12:44) Cambiar variables para un área específica
+⌨️ (05:15:09) Fin del curso
