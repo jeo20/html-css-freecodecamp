@@ -6,18 +6,49 @@ git branch -M main
 git remote add origin https://github.com/jeo20/html-css-freecodecamp.git
 git push -u origin main
 
+
+
 HTML
+https://github.com/estefaniacn/freecodecamp-curso-html-css
+
 ⌨️ (00:00:00) Inicio del Curso
 ⌨️ (00:00:37) Introducción a HTML y CSS
 ⌨️ (00:04:09) Herramientas de Desarrollo de Chrome
 ⌨️ (00:06:33) Editores de Código
 ⌨️ (00:10:52) Crear un Archivo HTML
 ⌨️ (00:15:22) Elementos y Etiquetas
+
+	Elemento (Element)
+	Un elemento HTML está compuesto por una etiqueta de apertura, contenido (si lo hay) y una etiqueta de cierre.
+	El elemento representa una parte específica del documento HTML y le da significado o estructura a ese contenido.
+	Por ejemplo, en <h1>Este es un encabezado</h1>, el elemento completo es <h1>Este es un encabezado</h1>.
+    La etiqueta de apertura es <h1>, el contenido es "Este es un encabezado", y la etiqueta de cierre es </h1>.
+	
+	Etiqueta (Tag)
+	Una etiqueta es un código que se utiliza para definir el inicio y/o el final de un elemento HTML.
+	Las etiquetas van entre corchetes angulares (< y >).
+	Generalmente, las etiquetas vienen en pares: una etiqueta de apertura (ej: <h1>) y una etiqueta de cierre (ej: </h1>). 
+    La etiqueta de cierre tiene una barra inclinada / antes del nombre de la etiqueta.
+	Existen también etiquetas "vacías" o "auto-cerradas" que no necesitan una etiqueta de cierre porque no contienen contenido (ej: <br>, <hr>, <img>).
+
 ⌨️ (00:26:14) Especificar Idioma
+    <html lang="es"> en la etiqueta html, agregamos el atributo lang="es"
+
 ⌨️ (00:28:18) Crear Encabezados
+    Desde h1 hasta h6
+
 ⌨️ (00:32:45) Párrafos
+    <p> </p>
+    ALT + Z para que se ajuste al tamaño de nuestra ventana
+
 ⌨️ (00:36:47) Buscar en la Documentación
+    https://developer.mozilla.org/es/
+    https://www.w3schools.com/html/default.asp
+
 ⌨️ (00:40:23) Comentarios en HTML
+    <!-- Comentario -->
+    Selecciono la linea completa y CTRL + Ç lo convierte en Comentario
+    
 ⌨️ (00:44:24) Elemento main
 ⌨️ (00:47:39) Indentación
 ⌨️ (00:51:12) Imágenes y Atributos
