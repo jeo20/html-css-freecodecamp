@@ -48,15 +48,54 @@ https://github.com/estefaniacn/freecodecamp-curso-html-css
 ⌨️ (00:40:23) Comentarios en HTML
     <!-- Comentario -->
     Selecciono la linea completa y CTRL + Ç lo convierte en Comentario
-    
+
 ⌨️ (00:44:24) Elemento main
+    El elemento HTML <main> representa el contenido principal del <body> de un documento o aplicación. El área principal del contenido consiste en el contenido que está directamente relacionado, o se expande sobre el tema central de un documento o la funcionalidad central de una aplicación. Este contenido debe ser único al documento, excluyendo cualquier contenido que se repita a través de un conjunto de documentos como barras laterales, enlaces de navegación, información de derechos de autor, logos del sitio y formularios de búsqueda (a menos, claro, que la función principal del documento sea un formulario de búsqueda).
+
+    Nota: no debe haber más de un elemento <main> en un documento, y este no debe ser descendiente de un elemento <article>, <aside>, <footer>, <header>, o <nav>.
+
 ⌨️ (00:47:39) Indentación
+    Se identa para ser mas legible, mas facil de mantener, mas ordenado
+
 ⌨️ (00:51:12) Imágenes y Atributos
+    <img src="https://bit.ly/fcc-relaxing-cat" alt="Un lindo gato naranja recostado sobre su espalda.">
+    src: indica la ruta adonde se encuentra la imagen, puede ser una carpeta local o una direccion web
+    alt: texto que indica la descripcion de la imagen
+
+    <img src="lasagna.jpg" alt="lasagna"> si esta en la misma carpeta adonde esta el archivo index.html solo debo indicar el nombre del archivo
+
+    <img src="/imagenes/lasagna.jpg" alt="lasagna"> si esta en una carpeta, debo indicar la carpeta y luego el nombre del archivo
+
 ⌨️ (00:59:12) Crear Enlaces Externos
+    <p>click para ver mas <a href="https://www.freecodecamp.org/espanol/" target="_blank" rel="noopener norefferrer>imagenes de gatos</a></p>
+    href: sitio al que direcciona el enlace
+    target: especifica de que forma abre el link
+    rel="noopener norefferrer: es por seguridad para evitar tabnabbing
+
 ⌨️ (01:04:10) Enlaces a secciones internas
+    <h3 id="parrafo-1">Parrafo 1</h3> hay que definir el id que debe ser unico en la pagina
+    <a href="#parrafo-1">Parrafo 1</a> link al id definido al que se quiere acceder
+
 ⌨️ (01:12:08) Enlaces con imágenes
+    <a href="https://www.freecodecamp.org/espanol" target="_blank" rel="noopener norefferrer"><img src="https://bit.ly/fcc-relaxing-cat" alt="Un lindo gato naranja recostado sobre su espalda."></a>
+    rodear la imagen con la etiqueta <a> </a>
+
+
 ⌨️ (01:15:40) Crear enlaces con #
+          <p>click para ver mas <a href="#" target="_blank" rel="noopener norefferrer">imagenes de gatos</a></p>
+
+
 ⌨️ (01:18:56) Listas no ordenadas
+    lista con viñetas
+        <ul>
+          <li>Menta gatuna</li>
+          <li>Apuntadores Láser</li>
+          <li><s>Lasaña</s></li>
+        </ul>
+    <ul> </ul> lista no ordenadas
+    <li> </li> elemento de la lista
+    
+
 ⌨️ (01:23:12) Listas ordenadas
 ⌨️ (01:27:08) Etiqueta strong
 ⌨️ (01:28:19) Text en cursiva
